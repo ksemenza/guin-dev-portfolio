@@ -1,0 +1,33 @@
+.hero-img-cta {
+  background-image: url("../img/cliff-center.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* width: 100%; */
+  position: relative;
+  min-width: 100vw;
+  min-height: 100vh;
+
+  /* width: 1600px; */
+}
+
+.ksPicImg {
+    width: 15rem;
+    border-radius: 235px;
+    margin-top: 2.5rem;
+}
+
+.name-title-cta h1 {
+    -webkit-text-stroke: 0.2px white;
+    font-weight: 700;
+    color: black;
+}
+.name-title-cta h5 {
+    color: black;
+         -webkit-text-stroke: 0.2px white;
+
+}
+.name-title-cta h4 {
+       color: black;
+       -webkit-text-stroke: 0.2px white;
+
+}

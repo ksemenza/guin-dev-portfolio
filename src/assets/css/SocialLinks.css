@@ -1,0 +1,14 @@
+.social-links-wrap {
+    display: flex;
+    height: 45px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.nav-icon {
+    height: 25px;
+    background-color: white;
+    margin: 15px;
+    border-radius: 5px;
+}
