@@ -4,9 +4,7 @@ import Header from './Header'
 import '../assets/css/Homepage.css'
 import ksPic from '../assets/img/ksemenza-pic.jpg'
 import SocialLinks from './SocialLinks'
-import Snow from 'react-snow-effect'
 import SnowFall from 'react-snowfall'
-import SnowStorm from 'react-snowstorm';
 
 const HomePage = () => {
 
@@ -17,7 +15,6 @@ const HomePage = () => {
             <Header />
             <div className='name-title-cta'>
                 <SnowFall />
-                {/* <Snow/> */}
 
             <h1>Kim Semenza</h1>
             <h5> Software Engineer </h5>
