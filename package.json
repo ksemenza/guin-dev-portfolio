@@ -1,5 +1,6 @@
 {
   "name": "guin-dev-portfolio",
+  "homepage":"https://guin-dev-portfolio.vercel.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,6 +13,7 @@
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
     "react-snowfall": "^1.0.2",
+    "vercel": "^21.0.1",
     "web-vitals": "^0.2.4"
   },
   "scripts": {
