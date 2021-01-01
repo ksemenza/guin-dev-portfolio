@@ -40,3 +40,37 @@
 .tag-wrap {
     margin-top: 1.8rem;
 }
+
+@media (max-width:900px) {
+    .name-title-cta h1 {
+        padding-top: 1.8rem;
+    }
+
+    h1 {
+        font-size: 4.6rem;
+    }
+
+  .name-title-cta h4 {
+      color: white;
+      -webkit-text-stroke: 0.5px black;
+            font-weight: 900;
+
+  }
+
+  .name-title-cta h5 {
+      color: white;
+      -webkit-text-stroke: 0.5px black;
+      font-weight: 900;
+
+  }
+
+  .name-title-cta h3 {
+      -webkit-text-stroke: 0.2px white;
+      color: black;
+        font-weight: 700;
+
+  }
+
+
+
+}

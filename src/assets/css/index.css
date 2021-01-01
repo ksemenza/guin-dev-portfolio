@@ -68,6 +68,7 @@ input {
 }
 
 /* 900px Universal MEDIA SPECS */
+/*
 @media (max-width:900px) {
   * {
     font-size: 1.4rem;
@@ -97,8 +98,10 @@ input {
     font-size: 1.8rem;
   }
 }
+*/
 
 /* 600px Universal MEDIA SPECS */
+/*
 @media (max-width:600px) {
   * {
     font-size: 1.2rem;
@@ -128,3 +131,4 @@ input {
     font-size: 1.3rem;
   }
 }
+*/
