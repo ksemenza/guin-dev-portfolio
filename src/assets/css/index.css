@@ -18,7 +18,82 @@ code {
 html {
   font-size: 62.5%;
   /* padding: 1.5rem; */
+  max-height: 100vh;
 
+}
+
+@font-face {
+  font-family: "MiltonianTattoo-Regular";
+  src: local("MiltonianTattoo-Regular"),
+  url("../fonts/MiltonianTattoo-Regular.ttf")format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "ArchitectsDaughter-Regular";
+  src: local("ArchitectsDaughter-Regular"),
+  url("../fonts/ArchitectsDaughter-Regular.ttf")format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "CabinSketch-Regular";
+  src: local("CabinSketch-Regular"),
+    url("../fonts/CabinSketch-Regular.ttf")format("truetype");
+  /* font-weight: normal; */
+}
+@font-face {
+  font-family: "EagleLake-Regular";
+  src: local("EagleLake-Regular"),
+  url("../fonts/EagleLake-Regular.ttf")format("truetype");
+  font-weight: normal;
+}
+@font-face {
+  font-family: "LoveYaLikeASister";
+  src: local("LoveYaLikeASister"),
+  url("../fonts/LoveYaLikeASister.ttf")format("truetype");
+  /* font-weight: normal; */
+}
+
+@font-face {
+  font-family: "Flavors-Regular";
+  src: local("Flavors-Regular"),
+  url("../fonts/Flavors-Regular.ttf")format("truetype");
+  /* font-weight: normal; */
+}
+@font-face {
+  font-family: "FrederickatheGreat-Regular";
+  src: local("FrederickatheGreat-Regular"),
+  url("../fonts/FrederickatheGreat-Regular.ttf")format("truetype");
+  /* font-weight: normal; */
+}
+@font-face {
+  font-family: "FasterOne-Regular";
+  src: local("FasterOne-Regular"),
+  url("../fonts/FasterOne-Regular.ttf")format("truetype");
+  /* font-weight: normal; */
+}
+@font-face {
+  font-family: "Ribeye-Regular";
+  src: local("Ribeye-Regular"),
+  url("../fonts/Ribeye-Regular.ttf")format("truetype");
+  /* font-weight: normal; */
+}
+@font-face {
+  font-family: "SueEllenFrancisco";
+  src: local("SueEllenFrancisco"),
+  url("../fonts/SueEllenFrancisco.ttf")format("truetype");
+  /* font-weight: normal; */
+}
+@font-face {
+  font-family: "SueEllenFrancisco";
+  src: local("SueEllenFrancisco"),
+  url("../fonts/SueEllenFrancisco.ttf")format("truetype");
+  /* font-weight: normal; */
+}
+@font-face {
+  font-family: "Sunshiney";
+  src: local("Sunshiney"),
+  url("../fonts/Sunshiney.ttf")format("truetype");
+  /* font-weight: normal; */
 }
 
 h1 {
@@ -50,6 +125,8 @@ h6 {
   font-size: 2.1rem;
 }
 
+
+/* 
 button {
   margin: 1.5rem;
   padding: 0.25rem 1rem 0.25rem 1rem;
@@ -65,7 +142,7 @@ button:hover {
 input {
   padding: 0.5rem;
   margin: 1.5rem;
-}
+} */
 
 /* 900px Universal MEDIA SPECS */
 /*
