@@ -1,6 +1,7 @@
 {
   "name": "guin-dev-portfolio",
   "homepage": "https://guin-dev-portfolio.vercel.app",
+  "main":"index.js",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
