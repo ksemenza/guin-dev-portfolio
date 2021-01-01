@@ -16,7 +16,9 @@ const HomePage = () => {
             <div className='name-title-cta'>
                 <SnowFall />
 
-            <h1>Kim Semenza</h1>
+                <h1>Kim Semenza</h1>
+                            <h2>Full Stack Web Developer</h2>
+
             <h5> Software Engineer </h5>
             <h4> & </h4>
                 <h5>Intellectual Innovator</h5>

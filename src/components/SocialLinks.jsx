@@ -20,7 +20,7 @@ const SocialLinks = () => {
             <img className='nav-icon github' src={GithubLogo} alt='Github Icon'/></a>
             <a href='mailto:ksemenza.247@gmail.com'> 
             <img className='nav-icon email' src={EmailLogo} alt='Email Icon'/></a>
-        </div>
+            </div>
             </div>
     )
 
