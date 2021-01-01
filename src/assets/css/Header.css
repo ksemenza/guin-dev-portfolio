@@ -7,12 +7,12 @@
 }
 
 .nav-link {
-    text-decoration: underline 0.2px black;
+    text-decoration: underline 0.2px gray;
     padding-left: 1.5rem;
     padding-right: 1.5rem;
     cursor: pointer;
-    color: white;
-     -webkit-text-stroke: 1px black;
+    color: black;
+     -webkit-text-stroke: 0.5px white;
      font-weight: 700;
      font-size: 2.5rem;
 }

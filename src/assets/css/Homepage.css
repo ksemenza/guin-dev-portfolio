@@ -17,9 +17,14 @@
 }
 
 .name-title-cta h1 {
-    -webkit-text-stroke: 0.2px white;
+    -webkit-text-stroke: 0.3px white;
     font-weight: 700;
     color: black;
+}
+.name-title-cta h3 {
+    -webkit-text-stroke: 0.5px black;
+    font-weight: 800;
+    color: white;
 }
 .name-title-cta h5 {
     color: black;
@@ -30,4 +35,8 @@
        color: black;
        -webkit-text-stroke: 0.2px white;
 
+}
+
+.tag-wrap {
+    margin-top: 1.8rem;
 }

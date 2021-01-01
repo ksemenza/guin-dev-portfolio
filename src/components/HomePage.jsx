@@ -17,11 +17,12 @@ const HomePage = () => {
                 <SnowFall />
 
                 <h1>Kim Semenza</h1>
-                            <h2>Full Stack Web Developer</h2>
-
+                <h3>Full Stack Web Developer</h3>
+<div className='tag-wrap'>
             <h5> Software Engineer </h5>
             <h4> & </h4>
-                <h5>Intellectual Innovator</h5>
+                    <h5>Intellectual Innovator</h5>
+                    </div>
             </div>
             
             <img className='ksPicImg' src={ksPic} alt='Kim Semenza Profile Picture' />
